@@ -1,0 +1,1 @@
+While building an Expo app, I encountered an error related to the interaction between Expo Go and a custom native module. The error message was quite generic and unhelpful, making debugging difficult. The module itself compiled correctly and appeared to function as expected in a standalone build.  The issue only surfaced when I tried to run the app using Expo Go.
